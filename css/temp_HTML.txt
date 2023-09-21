@@ -1,0 +1,364 @@
+<!-- Services Section Starts Here -->
+
+<section class="services" id="services">
+    <h1 class="heading">Our <span>services</span></h1>
+
+    <div class="box-container">
+        <div class="swiper-slide box">
+            <i class="fas fa-car"></i>
+            <h3>car selling</h3>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ea a itaque quaerat provident quasi dolores</p>
+            <a href="#" class="btn">Read more</a>
+        </div>
+
+        <div class="swiper-slide box">
+            <i class="fas fa-tools"></i>
+            <h3>repair</h3>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ea a itaque quaerat provident quasi dolores</p>
+            <a href="#" class="btn">Read more</a>
+        </div>
+
+        <div class="swiper-slide box">
+            <i class="fas fa-car-crash"></i>
+            <h3>insurence</h3>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ea a itaque quaerat provident quasi dolores</p>
+            <a href="#" class="btn">Read more</a>
+        </div>
+
+        <div class="swiper-slide box">
+            <i class="fas fa-car-battery"></i>
+            <h3>battery replacement</h3>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ea a itaque quaerat provident quasi dolores</p>
+            <a href="#" class="btn">Read more</a>
+        </div>
+
+        <div class="swiper-slide box">
+            <i class="fas fa-gas-pump"></i>
+            <h3>oil change</h3>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ea a itaque quaerat provident quasi dolores</p>
+            <a href="#" class="btn">Read more</a>
+        </div>
+
+        <div class="swiper-slide box">
+            <i class="fas fa-headset"></i>
+            <h3>24/7 support</h3>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ea a itaque quaerat provident quasi dolores</p>
+            <a href="#" class="btn">Read more</a>
+        </div>
+    </div>
+</section>
+<!-- Services Section Ends Here -->
+
+
+<!-- Vehicles Section Starts Here -->
+
+<section class="vehicles" id="vehicles">
+    <h1 class="heading">Popular <span>vehicles</span></h1>
+
+    <div class="swiper vehicles-sidebar">
+        <div class="swiper-wrapper">
+
+            <div class="swiper-slide box">
+                <img src="/images/innova old.png" alt="">
+                <div class="content">
+                    <h3>new car</h3>
+                    <div class="price"><span>price:</span>65000 RS/-</div>
+                    <p>
+                        New
+                        <span class="fas fa-circle"></span>2021
+                        <span class="fas fa-circle"></span>automatic
+                        <span class="fas fa-circle"></span>petrol
+                        <span class="fas fa-circle"></span>193 km/hr
+                    </p>
+                    <a href="#" class="btn">check out</a>
+                </div>
+            </div>
+
+          
+
+            <div class="swiper-slide box">
+                <img src="/images/corollaaltis.png" alt="">
+                <div class="content">
+                    <h3>new car</h3>
+                    <div class="price"><span>price:</span>65000 RS/-</div>
+                    <p>
+                        New
+                        <span class="fas fa-circle"></span>2021
+                        <span class="fas fa-circle"></span>automatic
+                        <span class="fas fa-circle"></span>petrol
+                        <span class="fas fa-circle"></span>193 km/hr
+                    </p>
+                    <a href="#" class="btn">check out</a>
+                </div>
+            </div>
+
+            <div class="swiper-slide box">
+                <img src="/images/fortuner.png" alt="">
+                <div class="content">
+                    <h3>new car</h3>
+                    <div class="price"><span>price:</span>65000 RS/-</div>
+                    <p>
+                        New
+                        <span class="fas fa-circle"></span>2021
+                        <span class="fas fa-circle"></span>automatic
+                        <span class="fas fa-circle"></span>petrol
+                        <span class="fas fa-circle"></span>193 km/hr
+                    </p>
+                    <a href="#" class="btn">check out</a>
+                </div>
+            </div>
+
+            <div class="swiper-slide box">
+                <img src="/images/Eartig.png" alt="">
+                <div class="content">
+                    <h3>new car</h3>
+                    <div class="price"><span>price:</span>65000 RS/-</div>
+                    <p>
+                        New
+                        <span class="fas fa-circle"></span>2021
+                        <span class="fas fa-circle"></span>automatic
+                        <span class="fas fa-circle"></span>petrol
+                        <span class="fas fa-circle"></span>193 km/hr
+                    </p>
+                    <a href="#" class="btn">check out</a>
+                </div>
+            </div>
+
+            <div class="swiper-slide box">
+                <img src="/images/Hilux.png" alt="">
+                <div class="content">
+                    <h3>new car</h3>
+                    <div class="price"><span>price:</span>65000 RS/-</div>
+                    <p>
+                        New
+                        <span class="fas fa-circle"></span>2021
+                        <span class="fas fa-circle"></span>automatic
+                        <span class="fas fa-circle"></span>petrol
+                        <span class="fas fa-circle"></span>193 km/hr
+                    </p>
+                    <a href="#" class="btn">check out</a>
+                </div>
+            </div>
+
+            <div class="swiper-slide box">
+                <img src="/images/Swift.png" alt="">
+                <div class="content">
+                    <h3>new car</h3>
+                    <div class="price"><span>price:</span>65000 RS/-</div>
+                    <p>
+                        New
+                        <span class="fas fa-circle"></span>2021
+                        <span class="fas fa-circle"></span>automatic
+                        <span class="fas fa-circle"></span>petrol
+                        <span class="fas fa-circle"></span>193 km/hr
+                    </p>
+                    <a href="#" class="btn">check out</a>
+                </div>
+            </div>
+        </div>
+        <!-- <div class="swiper-button-next"></div>
+        <div class="swiper-button-prev"></div> -->
+    </div>
+</section>
+//--------------------------------------------------------------------------------
+
+<section class="featured" id="featured">
+
+    <div class="swiper featured-slider">
+        <div class="swiper-wrapper wrapper">
+
+            <div class="swiper-slide box">
+                <img src="images/Featured Cars/jg2.png" alt="">
+                <h3>New Model</h3>
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star-half-alt"></i>
+                </div>
+                <div class="price">65,000 RS</div>
+                <a href="#" class="btn">check out</a>
+            </div>
+
+            <div class="swiper-slide box">
+                <img src="images/Featured Cars/RR1.png" alt="">
+                <h3>New Model</h3>
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star-half-alt"></i>
+                </div>
+                <div class="price">65,000 RS</div>
+                <a href="#" class="btn">check out</a>
+            </div>
+
+            <div class="swiper-slide box">
+                <img src="images/Featured Cars/jg3.png" alt="">
+                <h3>New Model</h3>
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star-half-alt"></i>
+                </div>
+                <div class="price">65,000 RS</div>
+                <a href="#" class="btn">check out</a>
+            </div>
+
+
+            <div class="swiper-slide box">
+                <img src="images/Featured Cars/Jg1.png" alt="">
+                <h3>New Model</h3>
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star-half-alt"></i>
+                </div>
+                <div class="price">65,000 RS</div>
+                <a href="#" class="btn">check out</a>
+            </div>
+
+            <div class="swiper-slide box">
+                <img src="images/Featured Cars/Jg1.png" alt="">
+                <h3>New Model</h3>
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star-half-alt"></i>
+                </div>
+                <div class="price">65,000 RS</div>
+                <a href="#" class="btn">check out</a>
+            </div>
+            <div class="swiper-slide box">
+                <img src="images/Featured Cars/Jg1.png" alt="">
+                <h3>New Model</h3>
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star-half-alt"></i>
+                </div>
+                <div class="price">65,000 RS</div>
+                <a href="#" class="btn">check out</a>
+            </div>
+        </div>
+        <div class="swiper-button-next"></div>
+        <div class="swiper-button-prev"></div>
+    </div>
+</section>
+<!-- Feautured Section Ends Here -->
+
+
+
+
+
+
+<!-- newsletter section starts here-->
+<section class="newsletter">
+    <h3>subscribe for latest updates</h3>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+    <form action="">
+        <input type="email" placeholder="enter your email">
+        <input type="submit" class="subscribe" id="">
+    </form>
+</section>
+<!-- newsletter section ends here-->
+
+
+<!-- Reviews Section Starts Here -->
+<section class="reviews" id="reviews">
+    <h1 class="heading">Customer <span>Reviews</span></h1>
+    <div class="swiper review-slider">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide box">
+                <img src="/images/Customers/Cust 1.jpg" alt="">
+                <div class="content">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                    <h3>John Deo</h3>
+                    <div class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star-half-alt"></i>
+                    </div>
+                </div>
+            </div>
+
+            <div class="swiper-slide box">
+                <img src="images/Customers/Cust 2.jpg" alt="">
+                <div class="content">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                    <h3>John Deo</h3>
+                    <div class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star-half-alt"></i>
+                    </div>
+                </div>
+            </div>
+
+            <div class="swiper-slide box">
+                <img src="images/Customers/Cust 4.jpg" alt="">
+                <div class="content">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                    <h3>John Deo</h3>
+                    <div class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star-half-alt"></i>
+                    </div>
+                </div>
+            </div>
+
+                        <div class="swiper-slide box">
+                <img src="images/Customers/Cust 1.jpg" alt="">
+                <div class="content">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                    <h3>John Deo</h3>
+                    <div class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star-half-alt"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="swiper-button-next"></div>
+        <div class="swiper-button-prev"></div>
+    </div>
+</section>
+<!-- Reviews Section ends Here -->
+
+<!-- Contact Section Starts Here -->
+<section class="contact" id="contact">
+    <h1 class="heading"><span>Contact</span></h1>
+        <div class="row">
+            <iframe class="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.2917299111054!2d73.89243202488638!3d18.560881982540515!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c123e182222f%3A0x34f6141b85761dd5!2sMaharashtra%20Co-Operative%20Housing%20Society%2C%20Yerawada%2C%20Pune%2C%20Maharashtra%20411006!5e0!3m2!1sen!2sin!4v1695224177647!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+            <form action="">
+                <h3>get in touch</h3>
+                <input type="text" placeholder="name" class="box">
+                <input type="email" placeholder="email" class="box">
+                <input type="number" placeholder="number">
+                <textarea class="box   " placeholder="message" cols="30" rows="10"></textarea>
+                <input type="submit" value="send message" class="btn">
+            </form>
+        </div>
+</section>
+<!-- Contact Section Ends Here -->
