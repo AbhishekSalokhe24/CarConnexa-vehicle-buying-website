@@ -70,7 +70,7 @@ var swiper = new Swiper(".vehicles-slider", {
   loop:true,
   spaceBetween: 20,
   autoplay: {
-    delay: 2500,
+    delay: 2000,
     disableOnInteraction: true,
     },
   navigation: {
@@ -104,7 +104,7 @@ var swiper = new Swiper(".featured-slider", {
   loop:true,
   spaceBetween: 20,
   autoplay: {
-    delay: 2100,
+    delay: 2000,
     disableOnInteraction: true,
     },
   navigation: {
